@@ -1,0 +1,2 @@
+there we will se how the version controll works,fist we will jsut staert with git init
+and then we will go to seeing the status and then we will... see other things
